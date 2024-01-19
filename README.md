@@ -22,11 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='assets/preworkWebsite.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Video Walkthrough](assets/preworkWebsite.gif)
-
-
+![sea](https://github.com/sderazo/web102_prework/assets/76634204/82711931-323c-4a28-873e-97c3dc90dea2)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 
