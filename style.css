@@ -2,7 +2,8 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-image: url('assets/waves.jpg');
+    background-size: cover;
 }
 
 #tentacles {
@@ -11,12 +12,17 @@ body {
 
 .header {
     display: flex;
+    justify-content: center;
     background-color: lightblue;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+}
+
+.header-text {
+    text-align: center;
 }
 
 .stats-container {
@@ -80,3 +86,21 @@ button {
     border-radius: 7px;
 }
 
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content:right;
+    padding: 2%;
+    color: lightskyblue;
+    align-items: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
